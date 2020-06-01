@@ -1,0 +1,97 @@
+void function main ( )
+
+{
+
+	if ( 1 plus 2 minus 3 multiply 7 )
+
+		{
+			3 plus 2 multiply 8 !!
+		}
+
+	if ( 1 plus 2 minus 3 )
+
+		{
+			3 plus 2 multiply 8 !!
+		}
+
+	if ( 5 plus 5 )
+
+		{
+
+			5 fact !!
+
+
+		}
+
+
+	if ( 7 less 5 )
+
+		{
+
+			22 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+		}
+
+	else
+
+		{
+
+			6 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+
+		}
+	
+	if ( 7 greater 5 )
+
+		{
+
+			if ( 7 less 5 )
+
+			{
+
+				7 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+
+			}
+
+			else
+
+			{
+
+				3 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+			}
+
+			2 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+
+
+		}
+
+	else
+
+		{
+
+			6 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+
+		}
+
+	if ( 7 less 5 )
+
+		{
+
+			2 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+	
+		}
+
+	elif ( 2 greater 1 )
+
+		{
+
+			3 plus 4 multiply 2 divide 2 !!
+	
+		}
+ 
+	else
+		{
+			6 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+
+		}
+
+		
+}

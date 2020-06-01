@@ -1,0 +1,16 @@
+
+value of expression in IF: 19
+
+THE CONDITION FOR IF IS FALSE
+
+value of expression in IF: 120
+
+value of expression in ELSE: 13
+
+value of expression middle ELSE: 10
+
+value of expression in first IF: 15
+
+value of expression in ELIF: 7
+
+Successful compilation

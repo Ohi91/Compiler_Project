@@ -1,0 +1,144 @@
+void function main ( )
+
+{
+	intType  variable_a , variable_b , variable_c , variable_multi , variable_multi , variable_b !!
+	variable_a eq 100 !!
+
+	variable_b eq 200 !!
+	variable_c eq 300 !!
+	variable_d eq 3 plus 1 minus 1 multiply 2!!
+
+	variable_multi eq 400 !!
+	
+
+	#++ 10 #++ !!	
+	#--10 #-- !!
+
+	variable_a eq 500 !!
+
+	1 plus 12 divide 4 multiply 4 !!
+
+	18 minus 15 plus 8 divide 2 multiply 5 !!
+
+	if ( 5 plus 4 minus 9 )
+
+		{
+			16 plus 8 divide 2 !!
+		}
+
+	if ( 5 plus 5 )
+
+		{
+
+			5 fact !!
+
+
+		}
+
+	switch ( 5 )
+	{
+	case 1 : 4 plus 2 !!
+	case 2 : 3 plus 2 !!
+	case 3 : 5 plus 2 !!
+	case 4 : 4 plus 9 !!
+	case 5 : 3 plus 6 !!
+	default : 100!!
+	}
+
+
+	if ( 7 less 5 )
+
+		{
+
+			22 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+		}
+
+	else
+
+		{
+
+			6 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+
+		}
+	
+	if ( 7 greater 5 )
+
+		{
+
+			if ( 7 less 5 )
+
+			{
+
+				7 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+
+			}
+
+			else
+
+			{
+
+				3 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+			}
+
+			2 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+
+
+		}
+
+	else
+
+		{
+
+			6 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+
+		}
+
+	if ( 7 less 5 )
+
+		{
+
+			2 plus 7 plus 6 multiply 2 minus 18 divide 3 !!
+	
+		}
+
+	elif ( 2 greater 1 )
+
+		{
+
+			3 plus 4 multiply 2 divide 2 !!
+	
+		}
+ 
+	else
+		{
+			6 plus 8 divide 4 plus 2 multiply 3 minus 1 !!
+
+		}
+
+		
+	loop_for ( 2 : 6 ) { 4 plus 2 }
+
+
+			loop_while ( 0 greater 5 )
+			{
+			4 plus 2
+			}
+
+
+	
+  //this is a single line comment
+  /a/ this is a multi line comment
+ /a/
+
+
+
+	switch ( 10 )
+	{
+	case 1 : 4 plus 2 !!
+	case 2 : 3 plus 2 !!
+	case 3 : 5 plus 2 !!
+	case 4 : 4 plus 9 !!
+	case 5 : 3 plus 6 !!
+	default : 100!!
+	}	
+}

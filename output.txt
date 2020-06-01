@@ -1,0 +1,65 @@
+
+WARNING: variable_multi is already declared
+
+WARNING: variable_b is already declared
+
+valid declaration
+
+(variable_a) Value of the variable: 100	
+
+(variable_b) Value of the variable: 200	
+
+(variable_c) Value of the variable: 300	
+
+WARNING: (variable_d) is not declared yet
+
+(variable_multi) Value of the variable: 400	
+After unary plus: 11
+
+value of expression: 11
+After unary minus: 9
+
+value of expression: 9
+
+(variable_a) Updated Value of the variable: 500	
+
+value of expression: 13
+
+value of expression: 23
+
+THE CONDITION FOR IF IS FALSE
+
+value of expression in IF: 120
+
+Case No : 5  and Result :  9
+SWITCH CASE!!!!.
+
+value of expression in ELSE: 13
+
+value of expression middle ELSE: 10
+
+value of expression in first IF: 15
+
+value of expression in ELIF: 7
+for loop 2 statement
+ : value is : 6
+for loop 3 statement
+ : value is : 6
+for loop 4 statement
+ : value is : 6
+for loop 5 statement
+ : value is : 6
+While LOOP: value of the expression in while loop 0 : 6
+value of the expression in while loop 1 : 6
+value of the expression in while loop 2 : 6
+value of the expression in while loop 3 : 6
+value of the expression in while loop 4 : 6
+value of the expression in while loop 5 : 6
+
+THIS IS SINGLE LINE COMMENT
+THIS IS MULTIPLE LINE COMMENT
+
+Result in default Value is :  100 
+SWITCH CASE!!!!.
+
+Successful compilation
