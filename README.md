@@ -1,2 +1,2 @@
-Compiler_Project:
-Here, my own source language comes as input which is checked by my own compiler whether the syntax according to my grammar is correct or not.
+Custom_Compiler:
+In this project, I developed my own compiler that processes a custom-defined source language. The compiler analyzes the input code based on the grammar I designed, checking whether the syntax adheres to the defined rules.
